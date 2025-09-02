@@ -1,14 +1,12 @@
-1. Project Title
-
 # Personal Expense Tracker
 
-2. Description
+Description
 
 This project is a desktop application designed to help users efficiently manage their day-to-day spending. It allows users to add, edit, and delete expense records, which are saved permanently to a file. Upon launching, the application loads all saved data into a user-friendly graphical interface for easy management.
 
-3. Key Features
+Key Features
 
-    Manage Expenses: Add, edit, and delete individual expense records, each with a date, category, amount, description, and payment method.
+Manage Expenses: Add, edit, and delete individual expense records, each with a date, category, amount, description, and payment method.
 
 Data Persistence: All expense data is permanently stored in a local file, ensuring your records are saved between sessions.
 
@@ -18,22 +16,13 @@ Data Visualization: Generate graphical charts for specific months, including a p
 
 Export Functionality: Export all expense data to a CSV file for easy sharing or use in other applications like Excel or Google Sheets.
 
-4. Technologies Used
-
-This part is straightforward. We'll list the main tools you used.
+Technologies Used
 
     Python 3
 
     PyQt5 (for the graphical user interface)
 
     Matplotlib (for data visualization and charts)
-
-5. How to Run
-
-This is a very important section. Clear instructions show professionalism. We'll also introduce a best practice by creating a requirements.txt file, which tells Python's installer (pip) exactly what your project needs.
-
-First, let's write the instructions for the README.md:
-Markdown
 
 ## How to Run
 
